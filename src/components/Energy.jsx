@@ -22,7 +22,7 @@ function Black() {
 
         <div className="font-['bebas_neue'] font-bold text-[#ffedd7] leading-[28vmax] text-[30vmax] md:text-[15vmax] md:leading-none px-4 py-12">
           <h1>GIVES YOU</h1>
-          <span className="flex items-center gap-6">
+          <span className="flex items-center gap-6 overflow-hidden">
             WIIINGS <GiSpikyWing />
           </span>
         </div>
